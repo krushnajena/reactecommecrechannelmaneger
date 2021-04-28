@@ -41,6 +41,8 @@ const authProtectedRoutes = [
   {path:"/products", component: Products},
   {path:"/orders", component: Orders},
   // this route should be at the end of all other routes
+  
+  { path: "/", exact: true, component: () => <Redirect to="/dashboard" /> },
 ]
 
 const publicRoutes = [
@@ -52,7 +54,6 @@ const publicRoutes = [
   //{ path: "/forgot-password", component: ForgetPwd },
   //{ path: "/", exact: true, component: () => <Redirect to="/login" /> },
 
-  { path: "/", exact: true, component: () => <Redirect to="/login" /> },
   
 ]
 
