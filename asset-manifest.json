@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactecommecrechannelmaneger/static/css/main.dcd18f39.chunk.css",
-    "main.js": "/reactecommecrechannelmaneger/static/js/main.15300d87.chunk.js",
-    "main.js.map": "/reactecommecrechannelmaneger/static/js/main.15300d87.chunk.js.map",
+    "main.js": "/reactecommecrechannelmaneger/static/js/main.0a9718d8.chunk.js",
+    "main.js.map": "/reactecommecrechannelmaneger/static/js/main.0a9718d8.chunk.js.map",
     "runtime-main.js": "/reactecommecrechannelmaneger/static/js/runtime-main.e3ab69e5.js",
     "runtime-main.js.map": "/reactecommecrechannelmaneger/static/js/runtime-main.e3ab69e5.js.map",
     "static/css/2.55d8add8.chunk.css": "/reactecommecrechannelmaneger/static/css/2.55d8add8.chunk.css",
@@ -42,6 +42,6 @@
     "static/css/2.55d8add8.chunk.css",
     "static/js/2.94b7e7b2.chunk.js",
     "static/css/main.dcd18f39.chunk.css",
-    "static/js/main.15300d87.chunk.js"
+    "static/js/main.0a9718d8.chunk.js"
   ]
 }
