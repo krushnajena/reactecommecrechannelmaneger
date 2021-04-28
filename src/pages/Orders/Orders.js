@@ -105,7 +105,7 @@ class Orders extends Component {
     
 
     const pageOptions = {
-      sizePerPage: 10,
+      sizePerPage: 100,
       totalSize: orders.length, // replace later with size(users),
       custom: true,
     }
